@@ -9,5 +9,7 @@ venue: 'Proceedings of the 62nd Annual Meeting of the Association for Computatio
 slidesurl: 'http://yourwebsite.com/files/slides-enhancing-llms.pdf'
 paperurl: 'http://yourwebsite.com/files/paper-enhancing-llms.pdf'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-enhancing-llms.bib'
-citation: 'John Smith, et al. (2024). "Enhancing Large Language Models with Advanced Fine-Tuning Techniques." <i>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</i>.'
+codeurl: 'https://github.com/shy12138-bit/enhancing-llms'
+codestatus: 'Code open-sourced on GitHub'
+citation: 'John Smith, et al. (2024). "Enhancing Large Language Models with Advanced Fine-Tuning Techniques.<i> Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</i>.'
 ---
